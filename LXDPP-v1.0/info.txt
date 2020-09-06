@@ -1,0 +1,11 @@
+           LXDPP-v1.0
+             project_B
+
+Date: 28th July,2020; 9th August, 2020; 6th September,2020
+
+Fixed major Bugs.
+
+Now Blogs can be seen in main Blog page(after being retrieved from SQLite Database).
+New posts can now be added with a new form page.
+User profile is also visible from the dashboard.
+
